@@ -271,6 +271,7 @@ img {
     transform: translateX(100%);
     cursor: pointer;
     transition: transform .3s ease-in-out;
+    
 }
 
 .projects__item:hover .projects__hover {
